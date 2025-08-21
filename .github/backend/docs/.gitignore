@@ -1,0 +1,9 @@
+# ignorar arquivos tradicionais
+
+*.doc
+*.docx
+
+# ignorar pastas
+**/* .bak
+**/* .swp
+**/* .swo
